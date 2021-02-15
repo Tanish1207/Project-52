@@ -1,2 +1,2 @@
-# Project-52
-Orgami Project with Hover 
+# C-52
+Capstone Website
